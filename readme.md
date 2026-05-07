@@ -67,7 +67,6 @@ The project is split into two core modules:
 - 🗄️ **Persistent Logging** — All conversations stored in MongoDB for audit trails and analytics
 - 🏛️ **Government-Focused** — Designed specifically for public service use cases (queries, appointments, status checks, etc.)
 - 🌐 **Web Interface** — Frontend dashboard via the `webapp` module for monitoring and management
-- 🔐 **Environment-Based Config** — Secrets and connection strings managed via `.env` for security
 
 ---
 
@@ -196,10 +195,6 @@ Gramaphone is designed to handle common government service interactions such as:
 
 ---
 
-## 👥 Contributors
-
-- **Abhiram A R** — [@dev-fm-thekk](https://github.com/dev-fm-thekk)
-
 Built at **Hacktopia Hackathon** 🏆
 
 ---
@@ -209,5 +204,3 @@ Built at **Hacktopia Hackathon** 🏆
 This project is open source. Feel free to use, fork, and contribute.
 
 ---
-
-> *"Making government services accessible to every citizen, one conversation at a time."*
